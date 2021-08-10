@@ -35,6 +35,5 @@ mv dotfiles/.gitignore ./
 mv dotfiles/.git ./
 rm -r dotfiles
 
-
 python3 -m pip install -U radian
 \curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh | bash -b
